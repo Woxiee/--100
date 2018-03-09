@@ -1,0 +1,233 @@
+{
+    "code": "0",
+    "itemInfoList": [
+                     {
+                     "itemContentList": [
+                                         {
+                                         "clickUrl": "休闲上衣",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4903/41/12296166/85214/15205dd6/58d92373N127109d8.jpg!q70.jpg"
+                                         },
+                                         {
+                                         "clickUrl": "装出新高度",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4675/88/704144946/137165/bbbe8a4e/58d3a160N621fc59c.jpg!q70.jpg"
+                                         },
+                                         {
+                                         "clickUrl": "奥妙全新上市",
+                                         "imageUrl": "https://img1.360buyimg.com/da/jfs/t4162/171/1874609280/92523/a1206b3f/58c7a832Nc8582e81.jpg"
+                                         },
+                                         {
+                                         "clickUrl": "吸尘品类直降",
+                                         "imageUrl": "https://img1.360buyimg.com/da/jfs/t4387/338/1185667042/56822/bcd7fc3d/58d9e139Nadf09c53.jpg"
+                                         }
+                                         ],
+                     "itemType": "themeBanner",
+                     "module": "themeBanner"
+                     },
+        {
+                     
+            "itemContentList": [
+                {
+                    "clickUrl": "男装超级品牌类日",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4903/41/12296166/85214/15205dd6/58d92373N127109d8.jpg!q70.jpg"
+                },
+                {
+                    "clickUrl": "京东春茶季",
+                    "imageUrl": "https://img1.360buyimg.com/da/jfs/t4309/113/2596274814/85129/a59c5f5e/58d4762cN72d7dd75.jpg"
+                },
+                {
+                    "clickUrl": "装出新高度",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4675/88/704144946/137165/bbbe8a4e/58d3a160N621fc59c.jpg!q70.jpg"
+                },
+                {
+                    "clickUrl": "宝宝出行利器",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4627/177/812580410/198036/24a79c26/58d4f1e9N5b9fc5ee.jpg!q70.jpg"
+                },
+                {
+                    "clickUrl": "慕尼黑新品上市",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t3097/241/9768114398/78418/47e4335e/58d8a637N6f178fbd.jpg!q70.jpg"
+                },
+                {
+                    "clickUrl": "空调让你百试不爽",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s720x322_jfs/t4282/364/2687292678/87315/e4311cd0/58d4d923N24a2f5eb.jpg!q70.jpg"
+                },
+                {
+                    "clickUrl": "奥妙全新上市",
+                    "imageUrl": "https://img1.360buyimg.com/da/jfs/t4162/171/1874609280/92523/a1206b3f/58c7a832Nc8582e81.jpg"
+                },
+                {
+                    "clickUrl": "吸尘品类直降",
+                    "imageUrl": "https://img1.360buyimg.com/da/jfs/t4387/338/1185667042/56822/bcd7fc3d/58d9e139Nadf09c53.jpg"
+                }
+            ],
+            "itemType": "topBanner",
+            "module": "topBanner"
+        },
+    
+        {
+            "itemContentList": [
+                {
+                    "clickUrl": "限时抢购",
+                    "itemSubTitle": "离满团还差",
+                    "itemTitle": "限时抢购",
+                    "timeCountDown": "500000"
+                }
+            ],
+            "itemType": "rushPurchaseHeader",
+            "module": "rushPurchase"
+        },
+        {
+            "itemContentList": [
+                {
+                    "clickUrl": "福临门",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t4186/44/1480543850/122209/11be676e/58c2676aN66a9c5ed.jpg!q70.jpg",
+                    "itemSubTitle": "119.9",
+                    "itemSubscript": "好货",
+                    "itemTitle": "73.9"
+                },
+                {
+                    "clickUrl": "刮胡刀",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t799/288/51305470/57357/7bfb28a2/54f52c83Nb6c2cef5.jpg!q70.jpg",
+                    "itemSubTitle": "538",
+                    "itemSubscript": "品质",
+                    "itemTitle": "299"
+                },
+                {
+                    "clickUrl": "ipad",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t2158/275/1115377524/647696/6c177b0/56792777N23d7cda0.png!q70.jpg",
+                    "itemSubTitle": "3688",
+                    "itemSubscript": "经典",
+                    "itemTitle": "3199"
+                },
+                {
+                    "clickUrl": "美女玩具",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t3790/31/64611920/414303/ae44859b/57fde07dN0c1bae84.jpg!q70.jpg",
+                    "itemSubTitle": "158",
+                    "itemTitle": "99"
+                },
+                {
+                    "clickUrl": "男裤",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t3208/354/1454144017/140641/d876f6d2/57cd3936N647f9d2d.jpg!q70.jpg",
+                    "itemSubTitle": "338",
+                    "itemTitle": "199"
+                },
+                {
+                    "clickUrl": "自行车",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t4582/132/1058213405/68736/4f05024/58d8595fN6d4f8092.jpg!q70.jpg",
+                    "itemSubTitle": "1138",
+                    "itemTitle": "599"
+                },
+                {
+                    "clickUrl": "皮鞋",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t3847/3/2992821407/161733/b17f17ef/58748cb0N721e7a20.jpg!q70.jpg",
+                    "itemSubTitle": "435",
+                    "itemTitle": "159"
+                },
+                {
+                    "clickUrl": "减肥",
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/s220x220_jfs/t2023/299/2364635879/258423/c2d89f21/56cfc313Nc798c4c9.jpg!q70.jpg",
+                    "itemSubTitle": "638",
+                    "itemTitle": "399"
+                }
+            ],
+            "itemType": "rushPurchaseContent",
+            "module": "rushPurchase"
+        },
+        {
+            "itemContentList": [
+                {
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t3169/299/6474778567/28114/54ee4d66/58a6d4b3N69c6e565.jpg!q70.jpg",
+                    "clickUrl": "新人红包"
+                },
+                {
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t4444/167/618381657/13640/b412722b/58d2a204N83cc6dbd.jpg!q70.jpg",
+                    "clickUrl": "9.9包邮"
+                },
+                {
+                   "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t4303/36/2607357917/11737/a2500194/58d3ef41N8458849c.jpg!q70.jpg",
+                   "clickUrl": "衣食住行"
+                }
+            ],
+            "itemType": "action",
+            "module": "action"
+        },
+        {
+            "itemContentList": [
+                {
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t2878/152/3484829401/8909/e1cf0ca/578de36bNae7bb54a.png!q70.jpg",
+                    "itemBackgroundImageUrl": "https://st.360buyimg.com/m/images/index/floor-tit.png",
+                    "itemTitle": "主题推荐"
+                }
+            ],
+            "itemType": "themeRecommand",
+            "module": "themeRecommand"
+        },
+                     {
+                     "itemContentList": [
+                                         {
+                                         "clickUrl": "京东超市",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t4477/120/1165061315/6371/82dfb453/58d9a09dNe4ba11e3.png",
+                                         "itemTitle": "京东超市"
+                                         },
+                                         {
+                                         "clickUrl": "全球购",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3286/167/1907269933/15789/da204cbe/57d53f16Nf3431cbd.png",
+                                         "itemTitle": "全球购"
+                                         },
+                                         {
+                                         "clickUrl": "服装城",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3208/285/1806438443/12227/e35aa8d/57d5407cN0d6adf20.png",
+                                         "itemTitle": "服装城"
+                                         },
+                                         {
+                                         "clickUrl": "京东生鲜",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3079/222/1812395993/14681/29321e2c/57d54122N700d9c1b.png",
+                                         "itemTitle": "京东生鲜"
+                                         },
+                                         {
+                                         "clickUrl": "京东到家",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3664/294/1570684882/19292/8b63dd4d/582adfbcNf82877de.png",
+                                         "itemTitle": "京东到家"
+                                         },
+                                         {
+                                         "clickUrl": "充值中心",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3118/92/1836879034/12255/981e942a/57d54204N32b71c87.png",
+                                         "itemTitle": "充值中心"
+                                         },
+                                         {
+                                         "clickUrl": "惠赚钱",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3424/278/301037516/11616/98748707/58096edbNcd05f66b.png",
+                                         "itemTitle": "惠赚钱"
+                                         },
+                                         {
+                                         "clickUrl": "领券",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3202/244/9578875998/14975/afaba260/58d4ee32N29ed1055.png",
+                                         "itemTitle": "领券"
+                                         },
+                                         {
+                                         "clickUrl": "物流查询",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3199/169/1818813995/12570/62402b0d/57d54364Needc47cd.png",
+                                         "itemTitle": "物流查询"
+                                         },
+                                         {
+                                         "clickUrl": "我的关注",
+                                         "imageUrl": "https://m.360buyimg.com/mobilecms/s80x80_jfs/t3211/295/1824792746/12749/a74e2524/57d543ebN25337ef2.png",
+                                         "itemTitle": "我的关注"
+                                         }
+                                         ],
+                     "itemType": "cateList",
+                     "module": "cateList"
+                     },
+       
+        {
+            "itemContentList": [
+                {
+                    "imageUrl": "https://m.360buyimg.com/mobilecms/jfs/t3205/189/6084932005/5424/1f04049d/589a8ce3Nb18b2ded.png!q70.jpg",
+                    "itemBackgroundImageUrl": "https://st.360buyimg.com/m/images/index/floor-tit.png",
+                    "itemTitle": ""
+                }
+            ],
+            "itemType": "type_Title2",
+            "module": "productsRecommand"
+        }
+    ]
+}

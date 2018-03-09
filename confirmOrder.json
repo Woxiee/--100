@@ -1,0 +1,50 @@
+{
+    "code": 200,
+    "data": {
+        "address": {
+            "accept_name": "潘富亚",
+            "address": "测试",
+            "adress_id": "8",
+            "area": "长治县",
+            "city": "长治市",
+            "mobile": "17512033060",
+            "province": "山西"
+        },
+        "seller": [
+            {
+                "categoryId": "",
+                "categoryName": "",
+                "count": 1,
+                "freight": 0,
+                "point": 7,
+                "price": 71,
+                "products": [
+                    {
+                        "cid": "",
+                        "commend_id": "",
+                        "goods_id": "897",
+                        "goods_nums": "1",
+                        "img": "http://xcmall.168call.cn/upload/20171207/20171274145924503.jpg",
+                        "name": "荞麦饸饹挂面5斤/盒 310×250×140（mm）",
+                        "pk_price": "0.00",
+                        "pkid": "277",
+                        "point": 7,
+                        "price": 71,
+                        "seller_id": "101",
+                        "seller_name": "陕西赢林实业有限责任公司",
+                        "sid": "",
+                        "spec": "颜色:红色 ",
+                        "usepoint_per": "10.000"
+                    }
+                ],
+                "satisfy": "",
+                "seller_id": 101,
+                "seller_name": "陕西赢林实业有限责任公司"
+            }
+        ]
+    },
+    "flag": false,
+    "info": "",
+    "line": 0,
+    "msg": "请求成功"
+}
